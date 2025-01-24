@@ -3,8 +3,6 @@ import { Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar'
 
 import CreatePage from './pages/CreatePage'
-import HomePage from './pages/homePage'
-
 
 function App() {
 
